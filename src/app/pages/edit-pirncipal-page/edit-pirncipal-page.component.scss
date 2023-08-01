@@ -1,0 +1,118 @@
+.img-banner {
+    height: 26rem;
+    background-image: var(--background_banner_image);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.text-banner {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2rem;
+    position: relative;
+    color: white;
+    z-index: 45;
+    text-align: right;
+}
+
+.text-banner-desktop {
+    margin-top: -9rem;
+    text-align: end;
+    width: 700px;
+}
+
+.filtering {
+    height: 26rem;
+    position: relative;
+    margin-top: -26rem;
+    z-index: 25;
+    background: rgba(111, 45, 189, 0.5);
+    mix-blend-mode: overlay;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 12px 12px;
+}
+
+.base-text {
+    font-style: normal;
+    color: #FFFFFF;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.container-personalize {
+    background-image: url('/assets/imgs/banner_green.svg');
+    background-size: cover;
+    margin-top: -2rem;
+}
+
+.title {
+    @extend .base-text;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    margin-top: 5rem;
+    margin-bottom: 1.25rem;
+}
+
+.content {
+    @extend .base-text;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: justify;
+    margin-bottom: 3rem;
+}
+
+.base-font {
+    font-style: normal;
+    color: #171616;
+}
+
+.card-title {
+    @extend .base-font;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: start;
+}
+
+.card-text {
+    @extend .base-font;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+}
+
+.card {
+    width: 16.3rem;
+    border-radius: 12px 12px 12px 12px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    text-align: end;
+}
+
+.scrollable {
+    height: 800px;
+    overflow: auto;
+}
+
+.scrollable-horizontal {
+    width: 500px;
+    overflow-x: auto;
+    white-space: normal;
+}
+
+.form-cards {
+    width: 50%;
+    align-self: center;
+    height: 300px;
+    overflow: auto;
+}

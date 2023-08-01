@@ -1,0 +1,142 @@
+<div class="container my-5">
+    <h2>Editar Pagina Principal</h2>
+    <div class="d-flex pb-5 row ">
+        <div class="col d-flex flex-column border-3 border-end border-dark justify-content-evenly">
+            <form class="row my-3">
+                <div class="mb-3">
+                    <label>Imagen Principal</label>
+                    <div class="d-flex">
+                        <input type="file" class="form-control" placeholder="Ingrese una imagen" accept="image/*"
+                            (change)="getTarget($event)">
+                        <button class="btn btn-primary" (click)="changeImage()">Confirmar</button>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Titulo de la imagen</label>
+                    <div class="d-flex">
+                        <input type="text" class="form-control" placeholder="Ingrese un titulo" (change)="getTarget($event)">
+                        <button class="btn btn-primary" (click)="changeText(1)">Confirmar</button>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Titulo de la infomracion</label>
+                    <div class="d-flex">
+                        <input type="text" class="form-control" placeholder="Ingrese un titulo" (change)="getTarget($event)">
+                        <button class="btn btn-primary" (click)="changeText(2)">Confirmar</button>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Descripcion</label>
+                    <div class="d-flex">
+                        <textarea type="text" class="form-control" placeholder="Ingrese un descripcion" (change)="getTarget($event)"></textarea>
+                        <button class="btn btn-primary" (click)="changeText(3)">Confirmar</button>
+                    </div>
+                </div>
+            </form>
+            <div class="mb-3">
+                <label>Titulo de la siguiente seccion</label>
+                <div class="d-flex">
+                    <input type="text" class="form-control" placeholder="Ingrese un titulo" (change)="getTarget($event)">
+                    <button class="btn btn-primary" (click)="changeText(4)">Confirmar</button>
+                </div>
+            </div>
+            <div class="d-flex justify-content-around align-items-center my-3">
+                <div class="form-cards">
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 1</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 2</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 3</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 4</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 4</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                    <div class="mb-3 d-flex justify-content-between">
+                        <label class="mx-3">Card 4</label>
+                        <button class="btn btn-primary btn-lg">Ver mas</button>
+                    </div>
+                </div>
+                <button class="btn btn-primary w-10 h-5">Añadir Card</button>
+            </div>
+        </div>
+        <div class="col scrollable">
+            <section class="container-fluid">
+                <div class="row">
+                    <div class="rounded d-flex img-banner"
+                        style="--background_banner_image: url('./assets/imgs/img-banner.svg');">
+                        <div class="text-banner  text-banner-desktop">{{textImage}}</div>
+                    </div>
+                    <div class="filtering d-block"></div>
+                </div>
+            </section>
+            <section class="container-fluid p-3 container-personalize">
+                <div class="title">{{textTitle}}</div>
+                <div class="content">{{textDescription}}</div>
+            </section>
+            <section id="heart_touristic" class="container-fluid scrollable-horizontal">
+                <div class="row">
+                    <div class="col py-4 px-5">
+                        <p class="title-subseccion">{{textTitleCard}}</p>
+                    </div>
+                </div>
+                <div class="d-flex">
+                    <div class="mx-3">
+                        <div class="card mb-4"><img alt="..." src="/assets/imgs/card_example.svg">
+                            <div class="card-body">
+                                <h5 class="card-title">Villamaría</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet consectetur. Nunc cum
+                                    diam venenatis sed rhoncus pharetra odio odio dictumst. Dictum aliquet platea sed in
+                                    ornare odio. Quisque convallis eget sed morbi. Morbi velit ut mauris id varius
+                                    consectetur elementum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-3">
+                        <div class="card mb-4"><img alt="..." src="/assets/imgs/card_example.svg">
+                            <div class="card-body">
+                                <h5 class="card-title">Villamaría</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet consectetur. Nunc cum
+                                    diam venenatis sed rhoncus pharetra odio odio dictumst. Dictum aliquet platea sed in
+                                    ornare odio. Quisque convallis eget sed morbi. Morbi velit ut mauris id varius
+                                    consectetur elementum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-3">
+                        <div class="card mb-4"><img alt="..." src="/assets/imgs/card_example.svg">
+                            <div class="card-body">
+                                <h5 class="card-title">Villamaría</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet consectetur. Nunc cum
+                                    diam venenatis sed rhoncus pharetra odio odio dictumst. Dictum aliquet platea sed in
+                                    ornare odio. Quisque convallis eget sed morbi. Morbi velit ut mauris id varius
+                                    consectetur elementum.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-3">
+                        <div class="card mb-4"><img alt="..." src="/assets/imgs/card_example.svg">
+                            <div class="card-body">
+                                <h5 class="card-title">Villamaría</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet consectetur. Nunc cum
+                                    diam venenatis sed rhoncus pharetra odio odio dictumst. Dictum aliquet platea sed in
+                                    ornare odio. Quisque convallis eget sed morbi. Morbi velit ut mauris id varius
+                                    consectetur elementum.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,68 @@
+<div class="container pt-4">
+    <div class="row align-items-start">
+        <div class="col"><h1>Editar Información</h1></div>
+        <div class="col">
+            <h1>Detalle Información</h1>
+        </div>
+    </div>
+    <div class="row align-items-start">
+        <div class="col">
+            <select class="form-select form-select-lg mb-3" (change)="selectMunicipio($event)"  [(ngModel)]="selectedValue">
+                <option selected>Selecciona un municipio</option>
+                <option *ngFor="let item of listMunicipios" value="{{item.id}}">{{item.title}}</option>
+            </select>
+            <div class="d-grid gap-2 col-6 mx-auto">
+                <button class="btn btn-primary" type="button" (click)="newMunicipio()">Nuevo</button>
+            </div>
+            <br>
+            <hr>
+            <br>
+            <label *ngIf="cardsMunicipio.length == 0" class="form-label">Selecciona un municipio para ver detalles</label>
+            <h5 *ngIf="cardsMunicipio.length > 0">Secciones</h5>
+            <table *ngIf="cardsMunicipio.length > 0" class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Seccion</th>
+                    <th scope="col">Ver</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of cardsMunicipio; let i = index">
+                    <th scope="row">{{ (i+1) }}</th>
+                    <td>{{item.title}}</td>
+                    <td><button class="btn btn-primary" type="button">Ver</button></td>
+                  </tr>
+                </tbody>
+              </table>
+        </div>
+        <div class="col">
+            <div class="card" *ngIf="municipioSelected">
+                <img [src]="municipioSelected.image" class="card-img-top image" alt="...">
+                <div class="card-body">
+                    <label for="SelectorImage" class="form-label">Imagen</label>
+                    <div class="mb-3">
+                        <label for="formFile" class="form-label">Cambiar Imagen</label>
+                        <input class="form-control" type="file" id="formFile" 
+                        (change)="uploadImage($event)"
+                            [disabled]="
+                            !municipioSelected ||
+                            !municipioSelected.title ||
+                            municipioSelected.title == '' || 
+                            municipioSelected.title.length < 5" accept="image/png, image/jpeg"/>
+                    </div>
+                    <hr>
+                    <label for="nameMunicipio" class="form-label">Nombre</label>
+                    <input id="nameMunicipio" class="form-control" type="text" [(ngModel)]="municipioSelected.title"/>
+                    <hr>
+                    <label for="descripcionEdit" class="form-label">Descripción</label>
+                    <textarea class="form-control" id="descripcionEdit" rows="3" [(ngModel)]="municipioSelected.description"></textarea>
+                    <hr>
+                    <div class="d-grid gap-2 col-6 mx-auto">
+                        <button class="btn btn-primary" type="button">Actualizar</button>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

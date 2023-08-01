@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tolimaparaisonatural": {
+      "hosting": {
+        "tolimaAdmin": [
+          "tolimaparaisonatural"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tolimaparaisonatural"
+  }
+}
