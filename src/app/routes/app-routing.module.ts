@@ -6,7 +6,7 @@ import { LiteLoadDataComponent } from '../pages/lite-load-data/lite-load-data.co
 const routes: Routes = [
   {path: 'home', component: EditPirncipalPageComponent},
   {path: 'lite', component: LiteLoadDataComponent},
-  {path: '**', redirectTo: 'home' }
+  {path: '**', redirectTo: 'lite' }
 ];
 
 @NgModule({

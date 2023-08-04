@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "title" : "Ambalema",
+        "description" : "Se encuentra localizado al Nororiente del Departamento del Tolima.  Fundado por Lesmes Espinoza en 1627, posteriormente Luis Serdino y Monzón fijó en 1656 los límites del resguardo de Ambalema, origen del actual municipio, erigido como tal en 1776.  Está localizado en la margen izquierda del río magdalena, sus tierras están regadas además por los ríos Recio, Venadillo y Lagunilla. Este municipio tolimense fue declarado Monumento Histórico Nacional en 1980, debido a su patrimonio arquitectónico. Las actividades económicas de mayor importancia son la agricultura, la ganadería y el comercio.  Los principales cultivos son los de arroz, algodón y ajonjolí. La actividad tabacalera marcó el desarrollo de la ciudad influyendo directamente en su proceso de consolidación urbana ya que implicó que tanto sus habitantes como la mayoría de sus construcciones se dedicaran a esta industria.",
+        "route" : "/detail",
+        "image" : [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/Ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=2a874012-261a-4b85-a0d1-798c31cf3853"
+        ]
+    },
+    {
+        "id" : 2,
+        "title" : "Ibagué - Cañón del Combeima",
+        "description" : "El Cañón del río Combeima se localiza en el costado oriental de la cordillera central entre los 1400 y los 4200 m.s.n.m, naciendo desde el Nevado del Tolima. El río cuenta con innumerables cascadas y afluentes, teniendo una morfología de estrechos valles en las orillas y con fuertes pendientes de hasta 90 grados, dejando al descubierto las grandes paredes de roca pura que tiene el Cañón, convirtiéndose en un maravilloso paisaje. El cañón del río Combeima un hermoso paisaje adornado de frailejones, plantas de mora y de lulo, hogar de osos de anteojos, cóndores, zorros y águilas cuaresmeras, un lugar ideal para el ecoturismo y los deportes de aventura, se puede hacer caminatas, ciclomontañismo, cabalgatas, escalada, rapel, torrentismo, avistamiento de aves, en fin es un lugar para disfrutar de la naturaleza.",
+        "route" : "/detail",
+        "image" : [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/Ibagu%C3%A9%20-%20Ca%C3%B1%C3%B3n%20del%20Combeima%2FParqueNacionalNaturalDeLosNevados.jpg?alt=media&token=8c98d9c2-33a4-4b6c-958f-eb5cbacd20c9"
+        ]
+    },
+    {
+        "id" : 3,
+        "title" : "Coello",
+        "description" : "Los terrenos que hoy ocupa Coello llevaron inicialmente el nombre de “Pueblo Nuevo de la Trinidad de las Bocas del Río Coello”, también hacían parte del antiguo llano grande y fueron oficializados como aldea el 5 de julio de 1627, fecha que desde ese entonces es celebrada como el día de su fundación. La población fue creciendo y mediante el Decreto 670 de la Gobernación del Tolima, Coello fue erigido como municipio. El 13 de octubre de 1887 fue elevado a la categoría de municipio. Coello es un municipio que depende económicamente de la agricultura, de productos como el algodón, sorgo, maíz, yuca y plátano. También cuenta con el complejo petrolero de Gualanday, que genera regalías y empleo para el municipio que se destinan a inversión social. Fue cuna de Miguel Abadía Méndez, quien nació en la Vega de los Padres (Inspección de Policía de Coello), el 5 de junio de 1867, y llegó a ser presidente de la República de Colombia en el año de 1926.",
+        "route" : "/detail",
+        "image" : [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/Coello%2FCoello-Tolima.jpg?alt=media&token=51121c4d-d16c-44f0-94d7-3aa1b595f93b"
+        ]
+    }
+]
+

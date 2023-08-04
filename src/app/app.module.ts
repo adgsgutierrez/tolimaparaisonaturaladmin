@@ -5,25 +5,29 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './routes/app-routing.module';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { PagesModule } from './pages/pages.module';
-import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
-import { environment } from '../environments/environment';
-import { provideFirestore,getFirestore } from '@angular/fire/firestore';
+import { environment } from 'src/environments/environment';
+import { EditPirncipalPageComponent } from './pages/edit-pirncipal-page/edit-pirncipal-page.component';
+import { LiteLoadDataComponent } from './pages/lite-load-data/lite-load-data.component';
+import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
+import { getStorage, provideStorage } from '@angular/fire/storage';
+import { getFirestore, provideFirestore } from '@angular/fire/firestore';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    EditPirncipalPageComponent,
+    LiteLoadDataComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     CommonModule,
-    PagesModule,
+    FormsModule,
     AppRoutingModule,
     provideFirebaseApp(() => initializeApp(environment.firebase)),
-    provideFirestore(() => getFirestore())
+    provideFirestore(() => getFirestore()),
+    provideStorage(() => getStorage()),
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

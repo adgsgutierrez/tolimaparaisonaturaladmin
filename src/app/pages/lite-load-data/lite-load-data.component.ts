@@ -1,11 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { DataService } from 'src/app/services/data/data.service';
+import { StorageService } from 'src/app/services/storage/storage.service';
 import { Utils } from 'src/app/utils/utils';
+
 
 @Component({
   selector: 'app-lite-load-data',
   templateUrl: './lite-load-data.component.html',
-  styleUrls: ['./lite-load-data.component.scss']
+  styleUrls: ['./lite-load-data.component.scss'],
 })
 export class LiteLoadDataComponent {
   
@@ -21,15 +23,21 @@ export class LiteLoadDataComponent {
     }[] = [];
     public selectedValue: any;
 
-    constructor(private dataFirebase: DataService) { }
+
+    constructor(private dataFirebase: DataService , private storage: StorageService) { }
 
     ngOnInit(): void {
       this.dataFirebase.getData('cardsInformation').subscribe((data: any) => { this.listMunicipios = data; });
     }
 
     uploadImage(event: any) {
-      this.municipioSelected!.description = Utils.transformStringToClear( this.municipioSelected?.title ) || '';
+      console.log(event);
+      const _name = Utils.transformStringToClear( this.municipioSelected?.title ) || '';
+      this.storage.uploadFiles(event.target.files, _name).then((urls: string[]) => {
+        console.log(urls);
+      });
     }
+
 
     newMunicipio() {
       this.municipioSelected = { 
@@ -47,4 +55,7 @@ export class LiteLoadDataComponent {
         .subscribe((data: any) => { this.cardsMunicipio = data.reverse(); });
     }
 
+    loadstaticinfo() {  
+      this.dataFirebase.loadsites().then((data: any) => { console.log(data); });
+    }
 }

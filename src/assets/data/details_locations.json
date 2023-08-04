@@ -1,0 +1,652 @@
+[
+    {
+        "card": 1,
+        "title": "Descripción",
+        "description": "Se encuentra localizado al Nororiente del Departamento del Tolima.  Fundado por Lesmes Espinoza en  1627, posteriormente Luis Serdino y Monzón fijó en 1656 los límites del resguardo de Ambalema, origen del actual municipio, erigido como tal en 1776.  Está localizado en la margen izquierda del río magdalena, sus tierras están regadas además por los ríos Recio, Venadillo y Lagunilla. Este municipio tolimense fue declarado Monumento Histórico Nacional en 1980, debido a su patrimonio arquitectónico. Las actividades económicas de mayor importancia son la agricultura, la ganadería y el comercio.  Los principales cultivos son los de arroz, algodón y ajonjolí. La actividad tabacalera marcó el desarrollo de la ciudad influyendo directamente en su proceso de consolidación urbana ya que implicó que tanto sus habitantes como la mayoría de sus construcciones se dedicaran a esta industria.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=b3dc26d3-b608-4eba-bf01-f709ac98f095"
+        ],
+        "details": []
+    },
+    {
+        "card": 1,
+        "title": "¿Donde encontrarnos?",
+        "description": "Al norte con el municipio de Armero Guayabal, al Oriente con la margen izquierda del río Magdalena (Cundinamarca), al occidente con el municipio de Lérida y al sur con el municipio de Venadillo. <br> Distancia de Bogotá a Ambalema  por la vía Cambao-Viani 159 kilómetros con una duración aproximada de 3 horas 45 minutos. Distancia de Ibagué  a Ambalema 74  kilómetros, duración aproximada 1  hora 30 minutos.",
+        "images": [],
+        "details": []
+    },
+    {
+        "card": 1,
+        "title": "Nuestro Valor",
+        "description": "Ambalema destaca por su valor arquitectónico y urbano, caracterizado por unidades arquitectónicas unificadas bajo un mismo tejado y la combinación de espacios público y privado mediante estantillerías, representando un estilo colonial en la arquitectura colombiana que es considerado patrimonio regional. Es conocida como la ciudad de las 1101 columnas. El municipio tiene dos vías de acceso a Ibagué (Vía Ambalema - Palobayo y Ambalema kilómetro 96) y el transporte fluvial en lanchas por el río Magdalena que conecta con el Departamento de Cundinamarca y otros municipios del Tolima",
+        "images": [],
+        "details": []
+    },
+    {
+        "card": 1,
+        "title": "Sobre Nosotros",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=b3dc26d3-b608-4eba-bf01-f709ac98f095",
+                "title": "Nuestro clima",
+                "description": "La temperatura promedio del municipio es de 26 grados centígrados, con una altura de 241  m.s.n.m.",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            },
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=b3dc26d3-b608-4eba-bf01-f709ac98f095",
+                "title": "Hospedajes",
+                "description": "Cuenta con 5 establecimientos hoteleros en los que encontrará variedad de precios.",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            },
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=b3dc26d3-b608-4eba-bf01-f709ac98f095",
+                "title": "Gastromonía",
+                "description": "En Ambalema hay 11 establecimientos de comidas en los cuales se ofrece pollo asado, comidas rápidas y   gastronomía típica tolimense (sancocho, tamal). Arepa de arroz y lechona. Subidos envuelto de mazorca y estacas de maduro.",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            }
+        ]
+		
+    }, 
+    {
+		"card": 1,
+        "title": "Festividades",
+        "description": "",
+        "images": [],
+        "details": [
+		{
+            "id": "1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FAntiguaAlcaldia2.jpg?alt=media&token=74878e1f-8372-441e-860c-193114ef182a",
+            "title": "Celebración cumpleaños del municipio",
+            "description": "En el mes de agosto",
+            "route": ""
+            },
+			{
+            "id": "2",
+            "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FIglesiaAntigua.jpg?alt=media&token=3c1b304c-8a4e-4172-9746-32bb36952568",
+            "title": "Fiestas de San Roque",
+            "description": "En la vereda el Chorillo en el mes de agosto y  El 13 de diciembre de cada año se celebra la Fiesta Patronal de la Virgen de Santa Lucía cuya imagen fue  llevada en el año de 1.679 por el río Magdalena, desde la madre patria de España, en la época de la colonia. Santa Lucía es la patrona de los ojos y de aquellos que tienen problemas con el sentido de la vista; su nombre significa luz.",
+            "route": ""
+            },
+			{
+            "id": "3",
+            "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FIglesiaSantaLucia.jpg?alt=media&token=894e9c4e-8933-4902-adab-b372b4acd161",
+            "title": "Fiesta patronal de la Virgen de Santa Lucia",
+            "description": "El 13 de diciembre de cada año, desde la madre patria de España, en la época de la colonia. Santa Lucía es la patrona de los ojos y de aquellos que tienen problemas con el sentido de la vista, su nombre significa luz.",
+            "route": ""
+            }
+        ]
+    },
+    {
+        "card": 1,
+        "title": "Cultura",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FIglesiaAntigua.jpg?alt=media&token=3c1b304c-8a4e-4172-9746-32bb36952568",
+                "title": "Iglesia Antigua",
+                "description": "Carrera 5a. Con calle 9a Esquina - Barrio El Centro",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FIglesiaSantaLucia.jpg?alt=media&token=894e9c4e-8933-4902-adab-b372b4acd161",
+                "title": "Iglesia Santa Lucía",
+                "description": "Carrera 5, Calle 8A, Esquina.",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FAlcaldiaMunicipal.jpg?alt=media&token=4cfed82f-46d7-4ecd-9483-0aae81049c1d",
+                "title": "Alcaldía Municipal",
+                "description": "Calle 9 No. 2-51, Esquina, Barrio El Centro.",
+                "route": "https://www.google.com/maps/place/Ambalema,+Tolima/@4.7828355,-74.7718509,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6cbe1206c7:0xc3e768a02538d4b6!8m2!3d4.7830998!4d-74.7634552!16zL20vMDc4amN6?hl=es&entry=ttu"
+            },
+			{
+                "id": "4",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FAntiguaAlcaldia1.jpg?alt=media&token=49fd90a2-8fa5-4ebc-8dec-03bc96ce58f9",
+                "title": "Antigua Alcaldía",
+                "description": "Calle 9 No. 2-51, Esquina, Barrio El Centro.Carrera 6, Calle 11, Esquina, Barrio El Centro",
+                "route": "https://www.google.com/maps/@4.7834181,-74.764344,3a,90y,7.67h,78.81t/data=!3m6!1e1!3m4!1sRgKwCUmNvYGH5-MeCYHbFA!2e0!7i16384!8i8192?hl=es&entry=ttu"
+            },
+			{
+                "id": "5",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FCasaInglesa.jpg?alt=media&token=475ea707-51a2-47d8-94bf-d66b7a527b96",
+                "title": "Casa Inglesa",
+                "description": "Carrera 5a. No. 6-19",
+                "route": "https://www.google.com/maps/place/Cra.+5%C2%AA,+Ambalema,+Tolima/@4.7763837,-74.771809,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a71e7455857:0xbf0a4bba993838f1!8m2!3d4.7763784!4d-74.7692341!16s%2Fg%2F11gcdnd73h?hl=es&entry=ttu"
+            },
+			{
+                "id": "6",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FFactoriaLaPatria.jpg?alt=media&token=4bc55f68-7be4-4f88-ba54-edb5d517163c",
+                "title": "Factoría La Patria",
+                "description": "Calle 7a No. 2-25 Barrio Campoalegre.",
+                "route": "https://www.google.com/maps/search/Carrera+7%C2%AA+%23no.+2-25,+Ambalema,+Tolima/@4.7828462,-74.7718509,16z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+			{
+                "id": "7",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FEstacio%CC%81nDelFerrocarril.jpg?alt=media&token=03dbbe18-9e29-4e03-96af-19bc17e693ee",
+                "title": "Estación del Ferrocarril",
+                "description": "Carrera 1a No. 9a - 25 Barrio La Pola",
+                "route": "https://www.google.com/maps/place/Cra.+1a,+Ambalema,+Tolima/@4.7827402,-74.7627225,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a1525c53b95:0xfadcdcfc73efebc1!8m2!3d4.7827349!4d-74.7601476!16s%2Fg%2F1vg6vsh9?hl=es&entry=ttu"
+            },
+			{
+                "id": "8",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FLaCasona.jpg?alt=media&token=18d44e7c-aa11-4c58-bd18-0e20ce3dafde",
+                "title": "La Casona",
+                "description": "Calle 7a. No. 2-54, Barrio Campoalegre",
+                "route": "https://www.google.com/maps/search/Calle+7a.+No.+2-54,+Ambalema,+Tolima/@4.7828462,-74.7718509,16z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+			{
+                "id": "9",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FCasaDeFerrocarriles.jpg?alt=media&token=c25d6e12-5d75-42ba-b025-7ca4b7e1b43d",
+                "title": "Casa de Ferrocarriles",
+                "description": "Carrera 2 con Calle de la Amargura, Esquina",
+                "route": "https://www.google.com/maps/search/Carrera+2+con+Calle+de+la+Amargura,+Ambalema,+Tolima/@4.7812255,-74.7630764,19.75z?hl=es&entry=ttu"
+            },
+			{
+                "id": "10",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FConjuntoUrbanoArquitectonicoDelCentroHistorico.jpg?alt=media&token=b3dc26d3-b608-4eba-bf01-f709ac98f095",
+                "title": "Conjunto Urbano Arquitectónico del Centro Histórico",
+                "description": "Centro histórico (Casco urbano)",
+                "route": "https://www.google.com/maps/place/Museo+Hist%C3%B3rico+Ambalema/@4.7816637,-74.7673615,18z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6d27276053:0x743bb5d04c1ffaa3!8m2!3d4.781661!4d-74.766074!16s%2Fg%2F11b7q94t1k?hl=es&entry=ttu"
+            }
+        ]
+    },
+    {
+		"card": 1,
+        "title": "Naturaleza",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FParqueBolivar.jpg?alt=media&token=05ba6821-8137-4106-a465-dec74cc9c9d9",
+                "title": "Parque Bolivar",
+                "description": "Entre Carreras 4 y 5, y Calles 8A y 9",
+                "route": "https://www.google.com/maps/place/Parque+de+Ambalema/@4.781008,-74.7660782,18z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5be24f94e941:0x53984fa787c41c1f!8m2!3d4.7810053!4d-74.7647907!16s%2Fg%2F11h70rwn58?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FMaleconTuristico.jpg?alt=media&token=fd12dac3-1505-471a-8eeb-a5239cfd22e4",
+                "title": "Malecon Turístico",
+                "description": "Calle 8ª, Puerto del Río Magdalena - Puerto del Ferri Omaira",
+                "route": "https://www.google.com/maps/place/Malecon+Ambalema+Tolima/@4.7793296,-74.7652546,18z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6c6f188a0d:0x3b0d1ac0501fe00b!8m2!3d4.7793269!4d-74.7639671!16s%2Fg%2F11dxr46nzh?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ambalema%2FRioGrandeDeLaMagdalena.jpg?alt=media&token=679f4d41-ee0c-46b7-b047-f7fb9e64ec18",
+                "title": "Río Grande de la Magdalena",
+                "description": "Frente al malecón turístico, (puerto el retiro)",
+                "route": "https://www.google.com/maps/place/Malecon+Ambalema+Tolima/@4.7793296,-74.7652546,18z/data=!3m1!4b1!4m6!3m5!1s0x8e3f5a6c6f188a0d:0x3b0d1ac0501fe00b!8m2!3d4.7793269!4d-74.7639671!16s%2Fg%2F11dxr46nzh?hl=es&entry=ttu"
+            }
+        ]
+    },
+    {
+        "card": 3,
+        "title": "Descripción",
+        "description": "Coello es un municipio colombiano fundado en 1627. Su economía se centra en la agricultura, con cultivos de algodón, sorgo, maíz, yuca y plátano, y cuenta con el complejo petrolero de Gualanday. Es conocido por ser la cuna del expresidente Miguel Abadía Méndez, quien gobernó Colombia en 1926.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FCoello-Tolima.jpg?alt=media&token=b8cd68c1-3b85-4d14-b6fe-eedbbfc5bc7b"
+        ],
+        "details": []
+    },
+    {
+        "card": 3,
+        "title": "¿Donde encontrarnos?",
+        "description": "Coello tiene una ubicación estratégica que permite conectar el centro del departamento con municipios de Cundinamarca. Limita al norte con Piedras, al este con el río Magdalena y municipios de Girardot, Nariño y Guataquí; al oeste con Ibagué; y al sur con San Luis, El Espinal y Flandes. Está a 68 km de Ibagué y se puede llegar en media hora desde el corregimiento de Chicoral o por Espinal.",
+        "images": [],
+        "details": []
+    },
+    {
+        "card": 3,
+        "title": "Sobre Nosotros",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FBalnearioChaguala.jpg?alt=media&token=2d814c0f-07ad-48f9-bf78-caa6e30f9dcc",
+                "title": "Nuestro clima",
+                "description": "Cuenta con un clima de aproximadamente 27°C",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FParroquiaNuestraSen%CC%83oraDelRosarioDeChiquinquira.jpg?alt=media&token=95cde9e4-6835-4b8b-966b-5e0bd7fbedcb",
+                "title": "Hospedajes",
+                "description": "Cuenta con alrededor de 7 hoteles",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Gastromonía",
+                "description": "Los platos típico son la lechona, los tamales, la chucula (bebida típica basada en la preparación indígena del chocolate de mesa) y los insulsos (postre a base de maíz que se prepara para acompañar la lechona)",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            }
+        ]
+    },
+	{
+		"card":1,
+		"title": "Festividades",
+		"description":"",
+		"images": [],
+		"details": [
+			{
+				"id": "1",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades1.jpg?alt=media&token=39efd4a5-e69f-4299-a3cc-cbd5a7e27635",
+				"title": "Festival Folclórico y Cultural del Sol y El Río",
+				"description": "A principio de agosto, participan candidatas representantes de diferentes  municipios del Departamento del Tolima, consiste los desfiles en traje de baño, fantasía y gala; un  recorrido en carrozas (Vehículos Adornados con elementos principales que identifican cada vereda o cada región de las participantes) sumado a este la participación de grandes artistas y sus tradicionales cabalgatas.",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+				{
+				"id": "2",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades2.jpg?alt=media&token=1db4deca-fcef-41c1-b967-e333a6a1fd9c",
+				"title": "Celebración del San Pedro",
+				"description": "28 y 29 de junio, participan candidatas de veredas, empresas y dependencia de la Alcaldía Municipal, desfilan en traje típico o representativo de las regiones, un recorrido de carrozas adornadas, comparsas y matachines, baile popular.",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "3",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades3.jpg?alt=media&token=ffca8050-9837-4d90-b849-30c2761114c3",
+				"title": "Celebración fiesta del Retorno en Gualanday",
+				"description": "participan candidatas representantes de diferentes veredas del  municipio, desfilan en traje de baño, fantasía y gala. Tambien, hay un  recorrido en carrozas (Vehículos Adornados con elementos principales que identifican cada vereda o cada región de las participantes) sumado a este la participación de grandes artistas y sus tradicionales cabalgatas.",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "4",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades4.jpg?alt=media&token=f5cdbac4-d3ab-410b-a2d4-664e64ec5b03",
+				"title": "Celebración del Cumpleaños de Coello",
+				"description": "5 de Julio. Se llevan a cabo actos protocolarios y culturales",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "5",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades5.jpg?alt=media&token=588714f1-ec90-45f0-9780-6bbd3c5bc634",
+				"title": "Fiestas Patronales",
+				"description": "Cabecera Mpal - 09 de Julio. En honor a Nuestra Señora del Rosario de Chiquinquirá",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "6",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades6.jpg?alt=media&token=6973bc61-57d9-4f3f-876e-ab8fbc3a28c2",
+				"title": "Fiestas Patronales",
+				"description": "Vereda Vindi – Mes de Agosto. En honor a la Virgen del Carmen",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "7",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades6.jpg?alt=media&token=6973bc61-57d9-4f3f-876e-ab8fbc3a28c2",
+				"title": "Fiestas Patronales",
+				"description": "Vereda Barrialoza – Mes de Julio. En honor a la Virgen de Santa Martha",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "8",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades6.jpg?alt=media&token=6973bc61-57d9-4f3f-876e-ab8fbc3a28c2",
+				"title": "Fiestas Patronales",
+				"description": "Vereda Vega de los padres – Mes de octubre. En honor a San Isidro Labrador",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			},
+			{
+				"id": "9",
+				"image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FFestividades6.jpg?alt=media&token=6973bc61-57d9-4f3f-876e-ab8fbc3a28c2",
+				"title": "Fiestas Patronales",
+				"description": "Vereda Potrerillo – Mes de Agosto. En honor a la Virgen del Carmen",
+				"route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+			}
+		]
+	},	
+    {
+        "card": 3,
+        "title": "Cultura",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FCuevaPoira.jpg?alt=media&token=df879f66-37c2-4b29-b1ff-6d796887211c",
+                "title": "Ruina de los Padres Jesuitas",
+                "description": "Vereda la Vega de los padres a 60 min de la Cabecera municipal",
+                "route": "https://www.google.com/maps/search/ruina+de+los+padres+jesuitas+coello+tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FParroquiaNuestraSen%CC%83oraDelRosarioDeChiquinquira.jpg?alt=media&token=95cde9e4-6835-4b8b-966b-5e0bd7fbedcb",
+                "title": "Parroquia Nuestra Señora del Rosario de Chiquinquirá",
+                "description": "Cabecera Municipal",
+                "route": "https://www.google.com/maps/place/Iglesia+Nuestra+Se%C3%B1ora+de+Chiquinquira/@4.2879182,-74.901392,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb56d783a9d:0xd895a62d21142a65!8m2!3d4.2879129!4d-74.8988171!16s%2Fg%2F1vvdw825?hl=es&entry=ttu"
+            },
+			{
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FCoello-Tolima.jpg?alt=media&token=b8cd68c1-3b85-4d14-b6fe-eedbbfc5bc7b",
+                "title": "Antigua Estación del Ferrocarril",
+                "description": "Inspecciones de Policía Gualanday",
+                "route": "https://www.google.com/maps/search/Inspeccion+de+Polic%C3%ADa%C2%A0Gualanday,+coello+tolima/@4.468017,-75.093982,11z/data=!3m1!4b1?hl=es&entry=ttu"
+            }
+        ]
+	},
+	{
+		"card": 2,
+        "title": "Naturaleza",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FElSaltoDeLaLucha.jpg?alt=media&token=8cba45ec-5eea-4ad1-920a-ccc13bfa54f3",
+                "title": "El Salto De La Lucha",
+                "description": "En la Vereda lucha adentro a 40 min de la cabera municipal",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FPiscinasNaturales-La%20Cascada.jpg?alt=media&token=ee55eaa1-96ae-4ee0-8595-f88d89aaf23c",
+                "title": "Piscinas Naturales (La Cascada)",
+                "description": "En la Vereda lucha adentro a 40 min de la cabera municipal.",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FPiscinasNaturales-El%20Plato.jpg?alt=media&token=0a0fcf58-27c1-4a7e-8a81-973c5c97811b",
+                "title": "Piscinas Naturales (El Plato)",
+                "description": "En la Vereda lucha adentro a 40 min de la cabera municipal.",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "4",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FBalnearioChaguala2.jpg?alt=media&token=d9a00771-73a2-4a3a-89fd-551442bafd92",
+                "title": "Balneario Chaguala",
+                "description": "En el Sector del puente vía vereda Llano de la Virgen.",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "5",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FAguasAzufradas.jpg?alt=media&token=3cd8e6a8-570d-4b17-b3b8-72452dee01f2",
+                "title": "Aguas Azufradas",
+                "description": "Vereda Chicualí a 20 min de la cabecera municipal.",
+                "route": "https://www.google.com/maps/place/Acceso+Chicoral-Gualanday,+Coello,+Tolima/@4.2574354,-74.9977969,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38d566236aaf1b:0x13f5bb1a88a5fdd2!8m2!3d4.2574301!4d-74.995222!16s%2Fg%2F11h54zhny5?hl=es&entry=ttu"
+            },
+            {
+                "id": "6",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Moya Vizcochuelo",
+                "description": "Vereda Chicuali.",
+                "route": "https://www.google.com/maps/place/Chicual%C3%AD,+Coello,+Tolima/@4.318531,-74.904854,15z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bfa7be96d01:0xe4618d22ed293fb4!8m2!3d4.31851!4d-74.88537!16s%2Fg%2F1tfkm6qy?hl=es&entry=ttu"
+            },
+            {
+                "id": "7",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FCascadaYCuevaLaGotera.jpg?alt=media&token=cf789546-82fb-449a-9d01-0392d6f33f36",
+                "title": "Cascada y cueva la Gotera",
+                "description": "Cabecera municipal",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "8",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FBalnearioGuacharaco.jpg?alt=media&token=d46f2cfc-179d-4510-817a-46cdc86eea78",
+                "title": "Balneario Guacharaco",
+                "description": "Cabecera municipal",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "9",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Cueva Poira",
+                "description": "Coello, Tolima",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "10",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FBalnearioGuacharaco.jpg?alt=media&token=d46f2cfc-179d-4510-817a-46cdc86eea78",
+                "title": "Balneario las Panelas",
+                "description": "Inspecciones de Policía Gualanday.",
+                "route": "https://www.google.com/maps/search/Inspeccion+de+Polic%C3%ADa%C2%A0Gualanday,+coello+tolima/@4.468017,-75.093982,11z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "11",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/coello%2FEstoraques.jpg?alt=media&token=946ec622-ec94-4ce1-84e2-e103bbc66eac",
+                "title": "Estoraques",
+                "description": "Vereda Calabozo",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9076173,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            }
+		]
+	},
+	{
+		"card": 3,
+        "title": "Gastromonía",
+        "description": "",
+        "images": [],
+        "details": [
+			{
+				"id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurantes y cafetería el buen sabor",
+                "description": "Cra 3 # 5-26, Cabecera Municipal",
+                "route": "https://www.google.com/maps/place/Cra.+3+%235,+Coello,+Tolima/@4.2894076,-74.8997825,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f2bca70d716fb:0x1810d8b8bb1cf714!8m2!3d4.2894023!4d-74.8972076?hl=es&entry=ttu"
+			},
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Parador Punto real",
+                "description": "Gualanday",
+                "route": "https://www.google.com/maps/place/Gualanday,+Coello,+Tolima/@4.2866691,-75.0376249,16z/data=!3m1!4b1!4m6!3m5!1s0x8e38d5adcffe9da9:0x95d4c790b0db2b68!8m2!3d4.283516!4d-75.031694!16s%2Fg%2F1hhvpnx4l?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Plus Mas",
+                "description": "Ibague - Bogotá Kilómetro 4",
+                "route": "https://www.google.com/maps/place/Coello,+Tolima/@4.2862712,-74.9030253,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2bb5709f69b1:0x720a1b511ca20c3e!8m2!3d4.286261!4d-74.897875!16zL20vMGRkbW5z?hl=es&entry=ttu"
+            },
+            {
+                "id": "4",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Asado Pipo",
+                "description": "Calle 3 # 6-32, Gualanday",
+                "route": "https://www.google.com/maps/search/Calle+3+%23+6-32,+Gualanday/@4.2866692,-75.0330329,16z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "5",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Las Avispas",
+                "description": "Gualanday",
+                "route": "https://www.google.com/maps/place/Gualanday,+Coello,+Tolima/@4.2866692,-75.0330329,16z/data=!4m6!3m5!1s0x8e38d5adcffe9da9:0x95d4c790b0db2b68!8m2!3d4.283516!4d-75.031694!16s%2Fg%2F1hhvpnx4l?hl=es&entry=ttu"
+            },
+            {
+                "id": "6",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Nuestra Tierra",
+                "description": "Barrio Las Brisas Gualanday",
+                "route": "https://www.google.com/maps/place/Gualanday,+Coello,+Tolima/@4.2866692,-75.0330329,16z/data=!3m1!4b1!4m6!3m5!1s0x8e38d5adcffe9da9:0x95d4c790b0db2b68!8m2!3d4.283516!4d-75.031694!16s%2Fg%2F1hhvpnx4l?hl=es&entry=ttu"
+            },
+            {
+                "id": "7",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Kamilis",
+                "description": "Calle 2 # 3-62, Cabecera Municipal",
+                "route": "https://www.google.com/maps/place/Cl.+2+%233,+Coello,+Tolima/@4.2866029,-74.9023781,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f2bb5259738d1:0xb0998e1a36d1e299!8m2!3d4.2865976!4d-74.8998032?hl=es&entry=ttu"
+            },
+            {
+                "id": "8",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante La Pradera",
+                "description": "Vereda Llano de la Virgen",
+                "route": "https://www.google.com/maps/place/Llano+de+La+Virgen,+Coello,+Tolima/@4.256682,-74.9290967,16z/data=!3m1!4b1!4m6!3m5!1s0x8e3f2a7d81803a5d:0x5a4a83cb49a6e52e!8m2!3d4.2540699!4d-74.92052!16s%2Fg%2F1tv255pc?hl=es&entry=ttu"
+            },
+            {
+                "id": "9",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Las Delicias Del Mango",
+                "description": "Gualanday",
+                "route": "https://www.google.com/maps/place/Gualanday,+Coello,+Tolima/@4.2866692,-75.0330329,16z/data=!4m6!3m5!1s0x8e38d5adcffe9da9:0x95d4c790b0db2b68!8m2!3d4.283516!4d-75.031694!16s%2Fg%2F1hhvpnx4l?hl=es&entry=ttu"
+            },
+            {
+                "id": "10",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante El Despertar De Las Aves",
+                "description": "Vereda Chaguala",
+                "route": "https://www.google.com/maps/search/Chaguala,+Coello,+Tolima/@4.2733752,-74.997699,17z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "11",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante El Motorista",
+                "description": "Diagonal 3 # 1E-33, Barrio Las Brisas",
+                "route": "https://www.google.com/maps/place/Cl.+3+%231,+Coello,+Tolima/@4.2865699,-74.9013202,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f2bb546466ac9:0x95050c57f62f5cc6!8m2!3d4.2865646!4d-74.8987453?hl=es&entry=ttu"
+            },
+            {
+                "id": "12",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Restaurante Zavatti",
+                "description": "Carrera 3 # 1E-25, Barrio Las Brisas",
+                "route": "https://www.google.com/maps/place/Cra.+3+%231,+Coello,+Tolima/@4.2889815,-74.9001018,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f2bca70d716fb:0x8c85f3b991af312d!8m2!3d4.2889762!4d-74.8975269?hl=es&entry=ttu"
+            }
+		]
+	},
+    {
+        "card": 2,
+        "title": "Descripción",
+        "description": "El Cañón del río Combeima es un hermoso paisaje en la cordillera central, con cascadas y valles estrechos. Es hogar de una variedad de fauna y ofrece actividades como caminatas y deportes de aventura. Ideal para el ecoturismo y disfrutar de la naturaleza.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FParqueNacionalNaturalDeLosNevados.jpg?alt=media&token=17818929-403e-4e42-ada6-fccbbb033376"
+        ],
+        "details": []
+    },
+    {
+        "card": 2,
+        "title": "¿Donde encontrarnos?",
+        "description": "El recorrido hacia el Cañón es de 18 km, partiendo desde la Plaza de Bolívar, en pleno centro de Ibagué, hasta el corregimiento de Juntas, bordeando la ribera del río Combeima.",
+        "images": [],
+        "details": []
+    },
+    {
+        "card": 2,
+        "title": "Sobre Nosotros",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FIbague%20-Can%CC%83onDelCombeima.jpg?alt=media&token=f39953e3-c318-4cfa-a5de-27f3a2fe02dd",
+                "title": "Nuestro clima",
+                "description": "Con un agradable clima promedio de 17 °C las personas que visitan está reserva natural perteneciente a la red del Parque Nacional Natural los Nevados",
+                "route": "https://www.google.com/maps/place/Ca%C3%B1%C3%B3n+de+Combeima/@4.4949499,-75.2963156,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c3902c6ede49:0x25f46c30ac8cc633!8m2!3d4.4949446!4d-75.2914447!16s%2Fg%2F11f5jt0dmw?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FMiradorLosSauces.jpg?alt=media&token=cba3dd95-a601-4a8d-bd99-c75a91b65c96",
+                "title": "Hospedajes",
+                "description": "Cuenta con 14 hoteles, servicio de camping y un promedio 80 establecimientos de comida.",
+                "route": "https://www.google.com/maps/place/Ca%C3%B1%C3%B3n+de+Combeima/@4.4949499,-75.2963156,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c3902c6ede49:0x25f46c30ac8cc633!8m2!3d4.4949446!4d-75.2914447!16s%2Fg%2F11f5jt0dmw?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FCascadaElSecreto.jpg?alt=media&token=9c636a42-d4c5-420f-abac-715ad8ca931f",
+                "title": "Gastromonía",
+                "description": "La ruta cuenta con múltiples restaurantes a lo largo de los 18 kilómetros que separan a la Vega de Juntas, incluyendo platos típicos de la gastronomía típica de la región como sancocho de gallina criolla, arepas de chócolo, conejo horneado, carne asada, lomo de cerdo, bandeja paisa, pescados como trucha o mojarra.",
+                "route": "https://www.google.com/maps/place/Ca%C3%B1%C3%B3n+de+Combeima/@4.4949499,-75.2963156,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c3902c6ede49:0x25f46c30ac8cc633!8m2!3d4.4949446!4d-75.2914447!16s%2Fg%2F11f5jt0dmw?hl=es&entry=ttu"
+            }
+        ]
+    }, 
+    {
+        "card": 2,
+        "title": "Cultura",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Museo Veredal de Colombia, El camino del recuerdo",
+                "description": "Juntas a 12 km de Ibagué",
+                "route": "https://www.google.com/maps/place/Museo+veredal+camino+del+recuerdo/@4.5590163,-75.3228543,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c11d19ab0e0d:0xb1667c596b860a11!8m2!3d4.559011!4d-75.3202794!16s%2Fg%2F11s34sfnwt?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FFincaAgroturisticaLaRivera.jpg?alt=media&token=c94bf2d0-119f-40b6-9576-8fe4146252b6",
+                "title": "Finca Agroturística la Rivera",
+                "description": "En el kilómetro 22 vía al nevado del Tolima, en el cañón del Combeima, Juntas en Ibagué - Tolima",
+                "route": "https://www.google.com/maps/search/Finca+Agrotur%C3%ADstica+la+Rivera,+El+camino+del+recuerdo,+Ca%C3%B1%C3%B3n+de+Combeima,+Ibagu%C3%A9,+Tolima/@4.5148475,-75.3364265,13z/data=!3m1!4b1?hl=es&entry=ttu"
+            }
+        ]
+	},
+	{
+		"card": 2,
+        "title": "Naturaleza",
+        "description": "",
+        "images": [],
+        "details": [
+            {
+                "id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FMiradorLosSauces.jpg?alt=media&token=cba3dd95-a601-4a8d-bd99-c75a91b65c96",
+                "title": "Mirador los Sauces",
+                "description": "km 18 vía al nevado, se encuentra ubicado a aproximadamente 30 minutos en auto desde el centro de la ciudad de Ibagué, en el Cañón del Combeima unos metros más arriba del caserío de Juntas",
+                "route": "https://www.google.com/maps/search/Mirador+los+Sauces,+El+camino+del+recuerdo,+Ca%C3%B1%C3%B3n+de+Combeima,+Ibagu%C3%A9,+Tolima/@4.5560437,-75.3278156,17z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "2",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FCascadaLaPlata.jpg?alt=media&token=70ff1748-34e4-4a5a-8f43-494dd8198847",
+                "title": "Cascada La Plata",
+                "description": "Corregimiento 8, Vereda Pastales, finca La Primavera, a 40 minutos de Ibagué, en las riberas del Cañón del Combeima, entre las veredas El Brillante y El Retiro, se encuentra la cascada La Plata.",
+                "route": "https://www.google.com/maps/place/Camino+Cascada+la+plata/@4.5105999,-75.302825,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c164793b3cbf:0x888db9f2109137c5!8m2!3d4.5105946!4d-75.3002501!16s%2Fg%2F11tcq1hcb1?hl=es&entry=ttu"
+            },
+            {
+                "id": "3",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Parque Ecoturístico La Plata",
+                "description": "Corregimiento 8, Vereda Pastales, finca La Primavera, a 40 minutos de Ibagué",
+                "route": "https://www.google.com/maps/search/Parque+Ecotur%C3%ADstico+La+Plata,+El+camino+del+recuerdo,+Ca%C3%B1%C3%B3n+de+Combeima,+Ibagu%C3%A9,+Tolima/@4.520726,-75.2890818,18z/data=!3m1!4b1?hl=es&entry=ttu"
+            },
+            {
+                "id": "4",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FParqueEcoTuri%CC%81sticoYExtremoYaguare.jpg?alt=media&token=03eebc2a-4eba-49eb-92be-ee92d72c601e",
+                "title": "Parque Eco Turístico y Extremo Yaguaré",
+                "description": "Vía al Nevado del Tolima",
+                "route": "https://www.google.com/maps/place/Parque+Ecoturistico+Y+Extremo+YAGUARE/@4.5579423,-75.3245783,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c17f60a02165:0xe4c0f7f3f76c012f!8m2!3d4.557937!4d-75.3220034!16s%2Fg%2F11gwjk882v?hl=es&entry=ttu"
+            },
+            {
+                "id": "5",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FCascadaElSecreto.jpg?alt=media&token=9c636a42-d4c5-420f-abac-715ad8ca931f",
+                "title": "Cascada El Secreto",
+                "description": "Vereda el Secreto",
+                "route": "https://www.google.com/maps/place/Cascadas+el+secreto/@4.5053849,-75.3108274,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38c15ea1c7aaa7:0x1700c371dbf5ad8f!8m2!3d4.5053796!4d-75.3082525!16s%2Fg%2F11j_0rtx5d?hl=es&entry=ttu"
+            },
+            {
+                "id": "6",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FParqueNacionalNaturalDeLosNevados.jpg?alt=media&token=17818929-403e-4e42-ada6-fccbbb033376",
+                "title": "Parque Nacional Natural de los Nevados",
+                "description": "Parque Nacional Natural de los Nevados",
+                "route": "https://www.google.com/maps/place/Parque+Nacional+Natural+Los+Nevados/@4.7897009,-75.3789395,17z/data=!3m1!4b1!4m6!3m5!1s0x8e38991b1e0aa2b5:0x4ffd61f416993555!8m2!3d4.7896956!4d-75.3763646!16s%2Fm%2F02vlbm9?hl=es&entry=ttu"
+            },
+            {
+                "id": "7",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/not_found.svg?alt=media&token=e5810a70-5a2c-4291-b9d6-0f6b9f3bd4c5",
+                "title": "Reserva Forestal Protector Alto Combeima",
+                "description": "Se localiza al noroccidente del municipio de Ibagué sobre el flanco oriental de la cordillera Central, con alturas comprendidas entre 2.000 y 4.800 m",
+                "route": "https://www.google.com/maps/search/Reserva+Forestal+Protector+Alto+Combeima/@4.5211964,-75.3049858,13z/data=!3m1!4b1?hl=es&entry=ttu"
+            }
+		]
+	},
+	{
+		"card": 2,
+        "title": "Deportes extremos",
+        "description": "",
+        "images": [],
+        "details": [
+		{
+			"id": "1",
+                "image": "https://firebasestorage.googleapis.com/v0/b/tolimaparaisonatural.appspot.com/o/ibague_-ca%C3%B1on_del_combeima%2FRocaDeEscalada.jpg?alt=media&token=d6fddb58-63da-4ec6-93b0-90ddbe5216b7",
+                "title": "Roca de Escalada",
+                "description": "Corregimiento de Juntas",
+                "route": "https://www.google.com/maps/search/Roca+de+Escalada,+corregimiento+de+juntas+tolima/@4.521534,-75.3049859,13z/data=!3m1!4b1?hl=es&entry=ttu"
+		}
+		]
+	}
+]
